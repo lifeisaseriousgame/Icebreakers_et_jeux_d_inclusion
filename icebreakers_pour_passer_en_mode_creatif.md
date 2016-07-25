@@ -1,7 +1,14 @@
 ---
-title: Les icebreakers, 8 jeux pour démarrer une réunion – passer en mode créatif
-description: Etre créatif, ça demande un certain état d’esprit. Il faut s’extraire du mode de pensée cartésien et rationnel qui constitue la norme dans la plupart des entreprises aujourd’hui. Il faut penser différemment et ne pas hésiter à faire des propositions iconoclastes. Pour y arriver et passer en mode créatif, rien de mieux qu’un icebreaker créatif.
-image_url: http://i0.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/enigme.png?resize=500%2C400
+title: 'Les icebreakers, 8 jeux pour démarrer une réunion – passer en mode créatif'
+description: >-
+  Etre créatif, ça demande un certain état d’esprit. Il faut s’extraire du mode
+  de pensée cartésien et rationnel qui constitue la norme dans la plupart des
+  entreprises aujourd’hui. Il faut penser différemment et ne pas hésiter à faire
+  des propositions iconoclastes. Pour y arriver et passer en mode créatif, rien
+  de mieux qu’un icebreaker créatif.
+image_url: >-
+  http://i0.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/enigme.png?resize=500%2C400
+published: true
 ---
 
 <span style="color: #99cc00; font-size: 14pt;">Des icebreakers pour démarrer une session de créativité</span>
@@ -11,7 +18,13 @@ Etre créatif, ça demande un certain état d’esprit. Il faut s’extraire du 
 
 ### <span style="color: #808080; font-size: 12pt;">Les énigmes du père Fouras</span>
 
-Une énigme, c’est un bon moyen pour se chauffer le cerveau et générer des interactions. Soumettez votre énigme et laissez les participants vous poser des questions et ne répondez que par oui ou par non. Pour trouver la solution, ils devront forcément penser différemment. Je vous propose celle-ci : « Un homme rentre dans un bar, il commande un verre d’eau. Le barman le regarde, sort un pistolet et lui pointe sur la tempe. L’homme s’en va. Que s’est-t-il passé ? ». Vous la connaissez ? (la réponse dans l’épisode 3 ;-)) *Durée : 10/20 min (le meilleur temps que je connaisse est de 7 minutes)* *Nombre de participants : de 5 à 20* *Matériel : pas de matériel nécessaire* 
+Une énigme, c’est un bon moyen pour se chauffer le cerveau et générer des interactions. Soumettez votre énigme et laissez les participants vous poser des questions et ne répondez que par oui ou par non. Pour trouver la solution, ils devront forcément penser différemment. Je vous propose celle-ci : « Un homme rentre dans un bar, il commande un verre d’eau. Le barman le regarde, sort un pistolet et lui pointe sur la tempe. L’homme s’en va. Que s’est-t-il passé ? ». Vous la connaissez ? (la réponse dans l’épisode 3 ;-)) 
+
+*Durée : 10/20 min (le meilleur temps que je connaisse est de 7 minutes)* 
+
+*Nombre de participants : de 5 à 20* 
+
+*Matériel : pas de matériel nécessaire* 
 
 <img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/enigme.png" title="Une énigme pour passer en mode créatif" alt="Une énigme pour passer en mode créatif" class="wp-image-961" width="500" height="400" /> Une énigme pour passer en mode créatif\[/caption\]
 
