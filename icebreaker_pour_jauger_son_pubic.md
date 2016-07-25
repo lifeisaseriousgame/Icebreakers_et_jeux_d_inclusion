@@ -12,7 +12,11 @@ A tour de rôle, chaque participant va exprimer son état d’esprit en utilisan
 -   content et/ou
 -   effrayé
 
-Pour plus de détail sur cette pratique, n’hésitez pas à revenir sur l’article "[Le secret des équipes performantes]". C’est une façon de connaître l’humeur de chacun et de vous adapter en fonction. C’est aussi une technique simple et rapide pour se recentrer sur la réunion. On pourra bien sûr profiter du tour de table pour se présenter. *Durée : 1 min par participant* *Nombre de participants : de 5 à 30 (sur un bâton)* *Matériel : pas de matériel particulier* \[caption id=“attachment\_1005” align=“aligncenter” width=“500”\][<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/check-in1.png" alt="check in" class="wp-image-1005" width="500" height="400" />] Check in\[/caption\]
+Pour plus de détail sur cette pratique, n’hésitez pas à revenir sur l’article "[Le secret des équipes performantes]". C’est une façon de connaître l’humeur de chacun et de vous adapter en fonction. C’est aussi une technique simple et rapide pour se recentrer sur la réunion. On pourra bien sûr profiter du tour de table pour se présenter. 
+*Durée : 1 min par participant* 
+*Nombre de participants : de 5 à 30 (sur un bâton)* 
+*Matériel : pas de matériel particulier* 
+[<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/check-in1.png" alt="check in" class="wp-image-1005" width="500" height="400" />] Check in\[/caption\]
 
 ### <span style="font-size: 12pt; color: #808080;">La constellation</span>
 
