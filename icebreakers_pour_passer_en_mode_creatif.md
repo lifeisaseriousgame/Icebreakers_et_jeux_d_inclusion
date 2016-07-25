@@ -1,14 +1,7 @@
 ---
-title: 'Les icebreakers, 8 jeux pour démarrer une réunion – passer en mode créatif'
-description: >-
-  Etre créatif, ça demande un certain état d’esprit. Il faut s’extraire du mode
-  de pensée cartésien et rationnel qui constitue la norme dans la plupart des
-  entreprises aujourd’hui. Il faut penser différemment et ne pas hésiter à faire
-  des propositions iconoclastes. Pour y arriver et passer en mode créatif, rien
-  de mieux qu’un icebreaker créatif.
-image_url: >-
-  http://i0.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/enigme.png?resize=500%2C400
-published: true
+title: Les icebreakers, 8 jeux pour démarrer une réunion – passer en mode créatif
+description: Etre créatif, ça demande un certain état d’esprit. Il faut s’extraire du mode de pensée cartésien et rationnel qui constitue la norme dans la plupart des entreprises aujourd’hui. Il faut penser différemment et ne pas hésiter à faire   des propositions iconoclastes. Pour y arriver et passer en mode créatif, rien de mieux qu’un icebreaker créatif.
+image_url: http://i0.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/enigme.png?resize=500%2C400
 ---
 
 <span style="color: #99cc00; font-size: 14pt;">Des icebreakers pour démarrer une session de créativité</span>
