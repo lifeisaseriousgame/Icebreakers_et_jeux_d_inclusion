@@ -32,7 +32,7 @@ Poser une série de questions à votre auditoire. Chaque participant doit y rép
 
 *Matériel : un chaise ou un mur (ça devrait pouvoir se trouver)* 
 
-<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/jeu-de-la-constellation.png" title="Jeu de la constellation" alt="Jeu de la constellation" class="wp-image-960" width="500" height="400" /> Jeu de la constellation\[/caption\]
+<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/jeu-de-la-constellation.png" title="Jeu de la constellation" alt="Jeu de la constellation" class="wp-image-960" width="500" height="400" /> 
 
   [Le secret des équipes performantes]: http://www.lifeisaseriousgame.com/le-secret-des-equipes-performantes-software-for-you-head/ "Le secret des équipes performantes : Software for your head"
   [<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/check-in1.png" alt="check in" class="wp-image-1005" width="500" height="400" />]: http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/check-in1.png
