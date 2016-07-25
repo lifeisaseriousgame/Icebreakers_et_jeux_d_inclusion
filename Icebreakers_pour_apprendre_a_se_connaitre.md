@@ -1,3 +1,9 @@
+---
+title: Les icebreakers, 8 jeux pour démarrer une réunion – apprendre à se connaître
+description: 
+image_url: http://i2.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/ice-breaker-web-humain1.png?resize=301%2C301
+---
+
 Icebreaker, brise glace, warm up, échauffement, on peut bien les appeler comme on veut mais avant de commencer une séance de travail collaboratif, comme avant une séance de sport, il s’agit de bien s’échauffer, sinon gare au claquage ! Travailler en groupe, ça n’est pas si simple. Chacun doit pouvoir s’exprimer, apporter sa contribution, construire avec les autres dans un climat positif propice à l’échange, tout en laissant de côté ses problèmes personnels pour se concentrer sur l’instant présent. Globalement, un icebreaker doit permettre d’initier les interactions entre les participants. On a remarqué que chaque participant doit prendre la parole au moins une fois en début de séance sinon il risque de se croire autorisé à ne pas intervenir (cf [Agile retrospective]). Mais c’est aussi une occasion de positionner la séance de travail sur de bons rails.
 
 Cela étant dit, ils peuvent aussi servir à beaucoup d’autres choses, tout dépend du contexte de votre atelier de travail.
