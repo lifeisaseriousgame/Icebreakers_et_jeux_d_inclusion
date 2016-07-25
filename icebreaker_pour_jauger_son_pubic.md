@@ -1,3 +1,9 @@
+---
+title: Les icebreakers, 8 jeux pour démarrer une réunion – jauger votre public
+description: Un icebreaker ça peut être une façon de mieux connaître les participants à l’atelier. Avant de commencer votre réunion, il peut être intéressant de savoir dans quel état d’esprit sont les participants ou de connaître leur niveau de connaissance sur le sujet traité
+image_url: http://i1.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/check-in1.png?resize=500%2C400
+---
+
 <span style="font-size: 14pt; color: #99cc00;">Des icebreakers pour jauger votre public</span>
 ----------------------------------------------------------------------------------------------
 
