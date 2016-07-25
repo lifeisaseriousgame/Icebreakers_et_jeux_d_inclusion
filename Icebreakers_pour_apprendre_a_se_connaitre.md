@@ -1,6 +1,6 @@
 ---
 title: Les icebreakers, 8 jeux pour démarrer une réunion – apprendre à se connaître
-description: 
+description: Dans le cas où les participants ne se connaissent pas ou peu, il faut à minima se présenter voire aller un cran plus loin en exprimant des choses plus personnelles. Se dévoiler, c’est une façon de capter l’attention des parties prenantes et de se recentrer sur l’instant présent. C’est aussi une façon de créer du lien.
 image_url: http://i2.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/ice-breaker-web-humain1.png?resize=301%2C301
 ---
 
