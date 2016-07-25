@@ -12,9 +12,6 @@ Roulez un long pan de brownpaper pour en faire un rouleau long et léger. Mainte
 <img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/baton-dhélium.png" title="Baton d&#39;hélium" alt="Baton d&#39;hélium" class="wp-image-964 aligncenter" width="400" height="400" />
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 
-
-\[emaillocker id=5714\]
 
 ### <span style="font-size: 12pt; color: #808080;">Chamallow challenge</span>
 
