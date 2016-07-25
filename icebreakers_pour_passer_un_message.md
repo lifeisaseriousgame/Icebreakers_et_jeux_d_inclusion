@@ -1,3 +1,9 @@
+---
+title: Les icebreakers, 8 jeux pour démarrer une réunion – faire passer des messages
+description: Briser la glace, c’est aussi une occasion de faire passer des messages à travers le jeu. Pourquoi ne pas commencer votre workshop par une mise en situation ludique qui vous permettra de rebondir sur le thème de l’atelier ?
+image_url: http://i0.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/baton-dh%C3%A9lium.png?resize=150%2C150
+---
+
 <span style="color: #99cc00; font-size: 14pt;">Les icebreakers pour faire de la pėdagogie</span>
 ------------------------------------------------------------------------------------------------
 
