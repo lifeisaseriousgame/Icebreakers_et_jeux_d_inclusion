@@ -11,11 +11,18 @@ Dans le cas où les participants ne se connaissent pas ou peu, il faut à minima
 
 Prenez une pelote de ficelle et placez les participants en cercle. A tour de rôle, chacun va se présenter puis transmettre la pelote à la personne de son choix tout en gardant le bout de la ficelle. Il explique alors le lien qui l’unit à la personne qu’il a choisie (un lien professionnel ou personnel). Le participant avec la pelote dans les mains recommence. On continue jusqu’à ce que tous les participants soient reliés entre eux avec la ficelle. Cette technique ne fonctionne que si les participants ont un minimum de lien entre eux. Le message à transmettre en fin d’exercice est intéressant : nous sommes tous liés les uns aux autres.
 
-*Durée : 10/20 min* *Nombre de participants : de 5 à 15* *Matériel : de la ficelle*
+* Durée : 10/20 min
+* Nombre de participants : de 5 à 15
+* * Matériel : de la ficelle
 
 <img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/ice-breaker-web-humain1-150x150.png" title="ice breaker web humain" alt="ice breaker web humain" width="301" height="301" />
 
-### 
+### Le réseau social en papier (issu du livre Gamestorming)
 
-  [Agile retrospective]: http://www.amazon.fr/Agile-Retrospective-Making-Teams-Great/dp/0977616649 "Agile rétrospective"
-  [<span style="color: #808080;">Mindtools</span>]: http://www.mindtools.com/pages/article/newLDR_76.htm "Mindtools"
+Imprimez des fiches de profil à la façon de facebook (nom, prénom, profession, hobbys) et demandez à chaque participant de venir se présenter et de coller son profil sur un grand brownpaper. Ensuite les participants dessinent des traits entre leur profil et les profils des personnes avec qui ils ont des liens (professionnels ou personnels). On visualise alors la richesse des liens et des interactions entre les participants. Bien sûr ici aussi les participants doivent avoir un minimum de lien les uns avec les autres. L’avantage avec cette technique c’est que le livrable produit est plutôt joli et peut constituer un souvenir à garder de la session.
+
+* Durée : 30/40 min
+* Nombre de participants : de 10 à 30
+* Matériel : un brownpaper, des fiches, de la colle et des feutres
+
+![lifeisaseriousgame](http://i0.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/RSE-en-papier.png?resize=150%2C150)
