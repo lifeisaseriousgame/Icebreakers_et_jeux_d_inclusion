@@ -27,7 +27,7 @@ Pour plus de détail sur cette pratique, n’hésitez pas à revenir sur l’art
 Poser une série de questions à votre auditoire. Chaque participant doit y répondre en se positionnant physiquement à une certaine distance d’un mur. Par exemple, si vous posez la question : vous aimez le chocolat ? Les personnes positionnées le nez au mur seront des inconditionnels du chocolat. Les personnes positionnées à l’autre bout de la pièce seront celles qui détestent le chocolat. Vous pouvez faire le même exercice en vous positionnant par rapport à une chaise au milieu de la pièce. C’est un moyen simple, rapide et visuel de mieux connaître le groupe. 
 
 *Durée : 15/20 min (selon le nombre de questions)* 
-
+ 
 *Nombre de participants : pas de limite* 
 
 *Matériel : un chaise ou un mur (ça devrait pouvoir se trouver)* 
