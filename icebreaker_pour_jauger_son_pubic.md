@@ -20,11 +20,19 @@ Pour plus de détail sur cette pratique, n’hésitez pas à revenir sur l’art
 
 *Matériel : pas de matériel particulier* 
 
-[<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/check-in1.png" alt="check in" class="wp-image-1005" width="500" height="400" />] Check in\[/caption\]
+[<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/check-in1.png" alt="check in" class="wp-image-1005" width="500" height="400" />]
 
 ### <span style="font-size: 12pt; color: #808080;">La constellation</span>
 
-Poser une série de questions à votre auditoire. Chaque participant doit y répondre en se positionnant physiquement à une certaine distance d’un mur. Par exemple, si vous posez la question : vous aimez le chocolat ? Les personnes positionnées le nez au mur seront des inconditionnels du chocolat. Les personnes positionnées à l’autre bout de la pièce seront celles qui détestent le chocolat. Vous pouvez faire le même exercice en vous positionnant par rapport à une chaise au milieu de la pièce. C’est un moyen simple, rapide et visuel de mieux connaître le groupe. *Durée : 15/20 min (selon le nombre de questions)* *Nombre de participants : pas de limite* *Matériel : un chaise ou un mur (ça devrait pouvoir se trouver)* \[caption id=“attachment\_960” align=“aligncenter” width=“500”\]<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/jeu-de-la-constellation.png" title="Jeu de la constellation" alt="Jeu de la constellation" class="wp-image-960" width="500" height="400" /> Jeu de la constellation\[/caption\]
+Poser une série de questions à votre auditoire. Chaque participant doit y répondre en se positionnant physiquement à une certaine distance d’un mur. Par exemple, si vous posez la question : vous aimez le chocolat ? Les personnes positionnées le nez au mur seront des inconditionnels du chocolat. Les personnes positionnées à l’autre bout de la pièce seront celles qui détestent le chocolat. Vous pouvez faire le même exercice en vous positionnant par rapport à une chaise au milieu de la pièce. C’est un moyen simple, rapide et visuel de mieux connaître le groupe. 
+
+*Durée : 15/20 min (selon le nombre de questions)* 
+
+*Nombre de participants : pas de limite* 
+
+*Matériel : un chaise ou un mur (ça devrait pouvoir se trouver)* 
+
+<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/jeu-de-la-constellation.png" title="Jeu de la constellation" alt="Jeu de la constellation" class="wp-image-960" width="500" height="400" /> Jeu de la constellation\[/caption\]
 
   [Le secret des équipes performantes]: http://www.lifeisaseriousgame.com/le-secret-des-equipes-performantes-software-for-you-head/ "Le secret des équipes performantes : Software for your head"
   [<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/check-in1.png" alt="check in" class="wp-image-1005" width="500" height="400" />]: http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/check-in1.png
