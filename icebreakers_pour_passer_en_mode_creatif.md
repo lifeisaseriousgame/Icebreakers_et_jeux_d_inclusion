@@ -12,6 +12,3 @@ Une énigme, c’est un bon moyen pour se chauffer le cerveau et générer des i
 Vous pouvez également utiliser l’exercice dont nous avons déjà parlé autour de la créativité de groupe ("[On est infiniment plus créatif à plusieurs]"). Là aussi, la clé de la réussite est de changer d’état d’esprit
 
 <img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/09/QIC3-150x150.png" alt="QIC3" class="alignleft size-thumbnail wp-image-535" width="150" height="150" /> <img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/09/QIC2-150x150.png" alt="QIC2" class="alignleft size-thumbnail wp-image-534" width="150" height="150" /> <img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/09/QIC1-150x150.png" alt="QIC1" class="alignleft size-thumbnail wp-image-533" width="150" height="150" />
-
-
-Vous aussi vous voulez mettre du jeu dans votre quotidien, organiser un évènement ludiquement sérieux ou être formé au jeu en entreprise ?
