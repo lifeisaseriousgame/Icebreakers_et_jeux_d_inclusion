@@ -13,8 +13,5 @@ Vous pouvez également utiliser l’exercice dont nous avons déjà parlé autou
 
 <img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/09/QIC3-150x150.png" alt="QIC3" class="alignleft size-thumbnail wp-image-535" width="150" height="150" /> <img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/09/QIC2-150x150.png" alt="QIC2" class="alignleft size-thumbnail wp-image-534" width="150" height="150" /> <img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/09/QIC1-150x150.png" alt="QIC1" class="alignleft size-thumbnail wp-image-533" width="150" height="150" />
 
-\[divider\]
-
-\[mc4wp\_form id=“2130”\]
 
 Vous aussi vous voulez mettre du jeu dans votre quotidien, organiser un évènement ludiquement sérieux ou être formé au jeu en entreprise ?
