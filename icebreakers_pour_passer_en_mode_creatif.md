@@ -24,7 +24,7 @@ Une énigme, c’est un bon moyen pour se chauffer le cerveau et générer des i
 * Nombre de participants : de 5 à 20
 * Matériel : pas de matériel nécessaire
 
-<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/enigme.png" title="Une énigme pour passer en mode créatif" alt="Une énigme pour passer en mode créatif" class="wp-image-961" width="500" height="400" /> Une énigme pour passer en mode créatif\[/caption\]
+<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/enigme.png" title="Une énigme pour passer en mode créatif" alt="Une énigme pour passer en mode créatif" class="wp-image-961" width="500" height="400" /> 
 
 ### <span style="color: #808080; font-size: 12pt;">Le test du QIC (Quotient d’Intelligence Créative)</span>
 
