@@ -28,8 +28,8 @@ Constituez vos équipes (5/6 personnes maximum par équipe) et distribuez leur l
 L’objectif est simple : construire la structure la plus haute possible permettant de supporter le chamallow pendant plus d’une minute. Temps réglementaire : 7 minutes. C’est un exercice riche d’enseignements sur les stratégies de collaboration. L’expérience a montré que ceux qui s’en sortent le mieux sont les enfants car ils n’ont pas peur de l’échec et ils fonctionnent plus volontiers sur un mode itératif. Au pire, vous pourrez toujours proposer l’exercice au prochain goûter d’anniversaire de votre fils, ça marche aussi ;-)
 
 *Durée : 45 min + 15 min de debrief* *Nombre de participants : des équipes de 5/6 * **
-\[caption id=“attachment\_963” align=“aligncenter” width=“500”\]<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/Chamaillow-challenge.png" title="Chamaillow challenge" alt="Chamaillow challenge" class="wp-image-963" width="500" height="350" /> Chamallow challenge\[/caption\]
+
+<img src="http://www.lifeisaseriousgame.com/wp-content/uploads/2013/11/Chamaillow-challenge.png" title="Chamaillow challenge" alt="Chamaillow challenge" class="wp-image-963" width="500" height="350" /> Chamallow challenge
 
 Pour info : la réponse à l’énigme de l’épisode 2 est que la personne qui entre dans le bar a le hoquet.
 
-\[/emaillocker\]
