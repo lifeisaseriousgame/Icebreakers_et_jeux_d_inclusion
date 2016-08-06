@@ -1,7 +1,7 @@
 ---
 title: Les icebreakers, 8 jeux pour démarrer une réunion – apprendre à se connaître
 description: Dans le cas où les participants ne se connaissent pas ou peu, il faut à minima se présenter voire aller un cran plus loin en exprimant des choses plus personnelles. Se dévoiler, c’est une façon de capter l’attention des parties prenantes et de se recentrer sur l’instant présent. C’est aussi une façon de créer du lien.
-image_url: http://i2.wp.com/www.lifeisaseriousgame.com/wp-content/uploads/2013/11/ice-breaker-web-humain1.png?resize=301%2C301
+image_url: https://github.com/multibao/contributions/blob/master/media/liasg-apprendreconnaitre.jpg?raw=true
 ---
 
 Icebreaker, brise glace, warm up, échauffement, on peut bien les appeler comme on veut mais avant de commencer une séance de travail collaboratif, comme avant une séance de sport, il s’agit de bien s’échauffer, sinon gare au claquage ! Travailler en groupe, ça n’est pas si simple. Chacun doit pouvoir s’exprimer, apporter sa contribution, construire avec les autres dans un climat positif propice à l’échange, tout en laissant de côté ses problèmes personnels pour se concentrer sur l’instant présent. Globalement, un icebreaker doit permettre d’initier les interactions entre les participants. On a remarqué que chaque participant doit prendre la parole au moins une fois en début de séance sinon il risque de se croire autorisé à ne pas intervenir (cf [Agile retrospective]). Mais c’est aussi une occasion de positionner la séance de travail sur de bons rails.
